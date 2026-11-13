@@ -1,0 +1,24 @@
+{
+  "source_id": "dung-bao-gio-di-an-mot-minh",
+  "title": "Đừng bao giờ đi ăn một mình (Never Eat Alone)",
+  "author": "Keith Ferrazzi, Tahl Raz",
+  "translator": "Trần Thị Ngân Xuyên",
+  "publisher": "NXB Trẻ",
+  "source_path_or_url": "data/dung-bao-gio-di-an-mot-minh.pdf",
+  "license_or_permission": "Sách ấn bản lưu hành học tập / nghiên cứu kỹ thuật Ingestion",
+  "accessed_at": "2026-11-13",
+  "format": "PDF",
+  "physical_page_range": {
+    "start_page": 1,
+    "end_page": 279,
+    "total_physical_pages": 279
+  },
+  "page_counting_rule": "Đọc full 279 trang; chỉ tính các trang có văn bản nội dung >= 80 ký tự sau khi chuẩn hóa; loại bỏ trang bìa phụ và trang trắng.",
+  "metadata_schema": {
+    "document_id": "string (dung-bao-gio-di-an-mot-minh)",
+    "source": "string (data/dung-bao-gio-di-an-mot-minh.pdf)",
+    "page": "integer (số trang vật lý thực tế trong PDF 1-279)",
+    "category": "string (phan_1_tam_the | phan_2_ky_nang | phan_3_ket_noi | phan_4_ky_thuat_so)",
+    "topic": "string (mindset | networking | relationships | branding)"
+  }
+}
